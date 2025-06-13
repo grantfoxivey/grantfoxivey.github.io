@@ -1,0 +1,22 @@
+body {
+  font-family: 'EB Garamond', serif;
+  background-color: #f5f5f5;
+  color: #222;
+  max-width: 700px;
+  margin: 2rem auto;
+  padding: 1rem;
+  line-height: 1.6;
+}
+h1 {
+  text-align: center;
+  margin-top: 2rem;
+  font-size: 2.5em;
+}
+img[alt=LinkedIn] {
+  display: block;
+  margin: 1rem auto;
+}
+a {
+  color: #006699;
+  text-decoration: none;
+}
